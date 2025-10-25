@@ -22,13 +22,13 @@
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔹 Bases de datos  
+### 🔹 Data Bases 
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### 🔹 Herramientas  
+### 🔹 Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
 
-### 🔹 Metodologías  
+### 🔹 Methodologies 
 <p>
   <img src="https://img.shields.io/badge/SCRUM-009FDA?style=for-the-badge&logo=agile&logoColor=white"/>
   <img src="https://img.shields.io/badge/OOP-000000?style=for-the-badge&logo=java&logoColor=white"/>
